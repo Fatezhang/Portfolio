@@ -35,6 +35,8 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import codingDuck from "./coding-duck.png";
+
 export {
   logo,
   backend,
@@ -69,4 +71,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  codingDuck,
 };
